@@ -436,27 +436,27 @@
 	  	<dependency>
 	  		<groupId>org.springframework</groupId>
 	  		<artifactId>spring-aop</artifactId>
-	  		<version>4.2.0.RELEASE</version>
+	  		<version>4.3.7.RELEASE</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.springframework</groupId>
 	  		<artifactId>spring-beans</artifactId>
-	  		<version>4.2.0.RELEASE</version>
+	  		<version>4.3.7.RELEASE</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.springframework</groupId>
 	  		<artifactId>spring-context</artifactId>
-	  		<version>4.2.0.RELEASE</version>
+	  		<version>4.3.7.RELEASE</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.springframework</groupId>
 	  		<artifactId>spring-core</artifactId>
-	  		<version>4.2.0.RELEASE</version>
+	  		<version>4.3.7.RELEASE</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.springframework</groupId>
 	  		<artifactId>spring-expression</artifactId>
-	  		<version>4.2.0.RELEASE</version>
+	  		<version>4.3.7.RELEASE</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>antlr</groupId>
@@ -471,12 +471,12 @@
 	  	<dependency>
 	  		<groupId>org.hibernate.common</groupId>
 	  		<artifactId>hibernate-commons-annotations</artifactId>
-	  		<version>4.0.1.Final</version>
+	  		<version>4.0.5.Final</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.hibernate</groupId>
 	  		<artifactId>hibernate-core</artifactId>
-	  		<version>4.2.13.Final</version>
+	  		<version>4.3.11.Final</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.hibernate.javax.persistence</groupId>
@@ -486,12 +486,12 @@
 	  	<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>4.2.5.Final</version>
+			<version>4.3.11.Final</version>
 		</dependency>
 		<dependency>
 		    <groupId>org.hibernate</groupId>
 		    <artifactId>hibernate-c3p0</artifactId>
-		    <version>4.2.13.Final</version>
+		    <version>4.3.11.Final</version>
 		</dependency>
 	  	<dependency>
 	  		<groupId>org.jboss.logging</groupId>

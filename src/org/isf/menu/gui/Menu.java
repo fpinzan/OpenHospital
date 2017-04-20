@@ -42,6 +42,7 @@ public class Menu {
 	 * Returns the main {@link ApplicationContext}. 
 	 */
 	public static ApplicationContext getApplicationContext() {
+		
 		return applicationContext;
 	}
 
@@ -66,4 +67,9 @@ public class Menu {
 		});
 		
 	}
+	
+	public static void setApplicationContext(ApplicationContext appContext) {
+		applicationContext = appContext;
+	}
+	
 }
